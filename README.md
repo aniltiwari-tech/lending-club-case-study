@@ -66,8 +66,4 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 - [Seaborn](https://seaborn.pydata.org/)
 
 
-Contributors
-
-Anil Tiwari
-
-Anirudh Naithani
+## Contributors:: Anil Tiwari, Anirudh Naithani
